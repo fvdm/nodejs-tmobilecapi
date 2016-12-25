@@ -24,7 +24,10 @@
     "httpreq": "^0.4.22"
   },
   "devDependencies": {
-    "dotest": "^1.14.0"
+    "coveralls": "^2.11.15",
+    "dotest": "^1.14.0",
+    "eslint": "^3.12.2",
+    "istanbul": "^0.4.5"
   },
   "engines": {
     "node": ">=4.0.0"
