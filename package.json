@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "Franklin van de Meent",
+    "email": "fr@nkl.in",
+    "url": "https://frankl.in"
+  },
+  "name": "tmobilecapi",
+  "description": "T-Mobile NL Customer API (unofficial)",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fvdm/nodejs-tmobilecapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fvdm/nodejs-tmobilecapi/issues"
+  },
+  "main": "index.js",
+  "tonicExampleFilename": "example.js",
+  "files": [
+    "CONTRIBUTING.md",
+    "example.js"
+  ],
+  "dependencies": {
+    "httpreq": "^0.4.22"
+  },
+  "devDependencies": {
+    "dotest": "^1.14.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "dotest"
+  },
+  "keywords": [
+    "api",
+    "capi",
+    "nl",
+    "tmobile"
+  ],
+  "license": "Unlicense"
+}
