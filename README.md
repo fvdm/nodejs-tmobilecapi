@@ -3,6 +3,12 @@ tmobilecapi
 
 T-Mobile NL Customer API (CAPI) for Node.js
 
+[![npm](https://img.shields.io/npm/v/tmobilecapi.svg?maxAge=3600)](https://github.com/fvdm/nodejs-tmobilecapi/blob/master/CHANGELOG.md)
+[![Build Status](https://travis-ci.org/fvdm/nodejs-tmobilecapi.svg?branch=master)](https://travis-ci.org/fvdm/nodejs-tmobilecapi)
+[![Coverage Status](https://coveralls.io/repos/github/fvdm/nodejs-tmobilecapi/badge.svg?branch=master)](https://coveralls.io/github/fvdm/nodejs-tmobilecapi?branch=master)
+[![bitHound Dependencies](https://www.bithound.io/github/fvdm/nodejs-tmobilecapi/badges/dependencies.svg)](https://www.bithound.io/github/fvdm/nodejs-tmobilecapi/develop/dependencies/npm)
+[![bitHound Code](https://www.bithound.io/github/fvdm/nodejs-tmobilecapi/badges/code.svg)](https://www.bithound.io/github/fvdm/nodejs-tmobilecapi)
+
 * [Node.js](https://nodejs.org/)
 * [T-Mobile CAPI](https://capi.t-mobile.nl)
 
